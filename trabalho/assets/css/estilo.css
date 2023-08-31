@@ -12,7 +12,7 @@
     padding: 396px 0;
     display: flex;
     justify-content: center;
-    background-image: linear-gradient(to right, black, red, green, yellow);
+    background-image: linear-gradient(to right, black, red, purple);
     background-size: 500% 100%;
     animation: degrade-animado 5s  infinite alternate;
 }
